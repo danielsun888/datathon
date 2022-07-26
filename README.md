@@ -1,4 +1,3 @@
-# datathonReadME.md  
 # Dataton - EagleAI  
   
 ## 0. 팀 멤버 소개 (team members)  

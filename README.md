@@ -1,11 +1,10 @@
 # datathonReadME.md  
-# 프로젝트 명  
+# Dataton - EagleAI  
   
 ## 0. 팀 멤버 소개 (team members)  
-
-용훈(YongHoon)(T.L)
-Daniel
-지원(Jiwon)
+* 용훈(YongHoon)(T.L)
+* Daniel
+* 지원(Jiwon)
   
 ## 1.목차 (index)  
   - 기간
@@ -14,14 +13,15 @@ Daniel
   - 목표
   
 ## 2.기간 (period)  
-* 1일차(화) - topic, data preprocessing
-* 2일차(수) -
+* 1일차(화) - topic and idea gathering
+* 2일차(수) - data preprocessing
 * 3일차(목) - visualization, report
 * 4일차(금) - presentation 
 
 ## 3.데이터 소개 (introduction to Data)  
-korea’s film market data  
-korea’s  film market change till 2022  
+한국 영화 시장(+서울) 데이터(korea’s film market data)  
+2022년 까지 한국 영화 시장(+서울) 변화 데이터(korea’s  film market change till 2022)  
+  
 **[공식통계]**는 영진위에서 매년 발표하는 “한국영화연감”의 영화별 흥행기록을 참고한 것입니다.  
 한국영화연감(1971~2010) 통계를 기준으로 정리한 것이며, 2011년부터는 통합전산망을 기준으로 일정한 주기(매월, 매년)로 마감처리하여 산출되는 통계정보입니다.  
 통계마감 주기(월별, 년별)에 따라 **공식통계 수치는 추후 변동될 수 있습니다.**  

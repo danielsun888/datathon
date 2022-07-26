@@ -11,6 +11,7 @@
   - 데이터 소개
   - 주제
   - 목표
+  - 작업툴
   
 ## 2.기간 (period)  
 * 1일차(화) - topic and idea gathering
@@ -39,5 +40,13 @@
 3. 새로운 데이터 연결 시도 - 배우 from [IMDB](https://www.imdb.com)  
 4. 갱신 예정 
 
-## 5 목표
+## 5. 목표
 this is report to managers of Film company for them to make decisions
+
+## 6. 작업툴
+1. Python
+2. Github
+3. Google sheet
+4. Goolge documnet
+5. mySql
+6. nlp

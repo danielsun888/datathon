@@ -19,9 +19,10 @@
 * 3일차(목) - visualization, report
 * 4일차(금) - presentation 
 
-## 3.데이터 소개 (introduction to Data)  
+## 3.데이터 소개 (Dataset introduction)  
 한국 영화 시장(+서울) 데이터(korea’s film market data)  
 2022년 까지 한국 영화 시장(+서울) 변화 데이터(korea’s  film market change till 2022)  
+영화명, 개봉일, 전국/서울별 관객수, 매출액, 
   
 **[공식통계]**는 영진위에서 매년 발표하는 “한국영화연감”의 영화별 흥행기록을 참고한 것입니다.  
 한국영화연감(1971~2010) 통계를 기준으로 정리한 것이며, 2011년부터는 통합전산망을 기준으로 일정한 주기(매월, 매년)로 마감처리하여 산출되는 통계정보입니다.  

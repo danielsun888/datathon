@@ -1,9 +1,9 @@
 # Dataton - EagleAI  
   
 ## 0. 팀 멤버 소개 (team members)  
-* 용훈(YongHoon)(T.L)
+* 김용훈(YongHoon)(T.L)
 * Daniel
-* 지원(Jiwon)
+* 최지원(Jiwon)
   
 ## 1. 목차 (index)  
   - 기간

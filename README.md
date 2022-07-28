@@ -46,3 +46,12 @@
 4. Google document
 5. mySql
 6. nlp
+
+## 파일 및 폴더 설명
+* graph : 이미지 저장
+* .DS_Store : 기본 파일
+* KOBIS.csv : 영화 데이터세트
+* README.md : README
+* Rating.csv : Rating 구분을 위해 만든 csv
+* daniel.ipynb, kyh.ipynb, jiwon.ipynb : 개인 쥬피터 노트북
+* danil.md, kyh.md, : 개인 md 파일

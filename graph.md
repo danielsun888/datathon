@@ -44,7 +44,7 @@
 
 
 
-## 9. 연도별 변화 비교분석
+## 8. 연도별 변화 비교분석
 ### : 'National_Sales', 'National_Audience', 'Release_Year'
 
 * [연도별 장르 수요 추이]
@@ -52,7 +52,7 @@
 * [연도별 전국 관객 추이]
 ![](graph/jiwon_1_2.png)
 
-## 10. 장르별 변화 비교 분석 
+## 9. 장르별 변화 비교 분석 
 ### : 'National_Sales', 'National_Audience', 'Genre'
 
 * [장르별 국내 관객 비교] 
@@ -62,7 +62,7 @@
 ![](graph/jiwon_2_2.png)
 
 
-## 11. 연도별 전국 관객 장르 수요 분석
+## 10. 연도별 전국 관객 장르 수요 분석
 ###  :'National_Audience','year', 'Genre'
 
 * [연도별 국내개봉 영화 장르 관객 분포 비교]

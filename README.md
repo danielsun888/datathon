@@ -44,8 +44,7 @@
 2. Github
 3. Google sheet
 4. Google document
-5. mySql
-6. nlp
+5. nlp
 
 ## 파일 및 폴더 설명
 * graph : 이미지 저장
@@ -54,5 +53,7 @@
 * README.md : README
 * Rating.csv : Rating 구분을 위해 만든 csv
 * daniel.ipynb, kyh.ipynb, jiwon.ipynb : 개인 쥬피터 노트북
-* danil.md, kyh.md, : 개인 md 파일
+* danil.md, kyh.md, Jiwon.md : 개인 md 파일
 * EagleAI.ipynb : 통합 쥬피터 노트북
+* data.md, graphd.md : 웹페이지를 위한 md 파일(presentation용)
+* gannt.png : 간트 차트 그림

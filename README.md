@@ -55,3 +55,4 @@
 * Rating.csv : Rating 구분을 위해 만든 csv
 * daniel.ipynb, kyh.ipynb, jiwon.ipynb : 개인 쥬피터 노트북
 * danil.md, kyh.md, : 개인 md 파일
+* EagleAI.ipynb : 통합 쥬피터 노트북

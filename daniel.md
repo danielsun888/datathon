@@ -32,7 +32,7 @@
 ![](graph/daniel_6_1.png )
 
 
-## distribution graphs
+##  top  movie country's movie sale distribution
 ![](graph/daniel_7_1.png )
 ![](graph/daniel_7_2.png )
 

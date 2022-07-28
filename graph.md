@@ -24,7 +24,7 @@
 
 ## 5. 국내 개봉 영화 국가별 워드 클라우드
 
-![](graph/wordcloud_%EB%8F%85%EC%9D%BC.png )
+![](graph/daniel_wordcloud_한국.png )
 ![](graph/wordcloud_%EB%AF%B8%EA%B5%AD.png )
 ![](graph/wordcloud_%EC%98%81%EA%B5%AD.png )
 ![](graph/wordcloud_%EC%9D%B4%ED%83%88%EB%A6%AC%EC%95%84.png )
